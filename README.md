@@ -20,7 +20,7 @@ From rapid prototypes to production-ready systems, I ship code that works.
 
 ## 🚀 Beyond Code
 
-When I'm not coding, I'm thinking about product design, reading engineering blogs from companies shipping at scale, or figuring out how to make complex tools more accessible.
+Outside of work, you'll find me on the basketball court, reading, or just appreciating poetry and art.
 
 ## 🤝 Let's Connect
 
