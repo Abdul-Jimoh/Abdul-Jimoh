@@ -20,7 +20,7 @@ From rapid prototypes to production-ready systems, I ship code that works.
 
 ## 🚀 Beyond Code
 
-Outside of work, you'll find me on the basketball court, reading, or just appreciating poetry and art.
+Outside of work, you'll find me on the basketball court, diving into a good book, or exploring poetry and art.
 
 ## 🤝 Let's Connect
 
