@@ -2,7 +2,7 @@
 
 Frontend engineer building products that people actually use. I turn ideas into polished, functional web applications.
 
-## What I Do
+## 💻 What I Do
 
 I specialize in building modern web applications with a focus on user experience and clean architecture. 
 From rapid prototypes to production-ready systems, I ship code that works.
@@ -18,11 +18,11 @@ From rapid prototypes to production-ready systems, I ship code that works.
 - System design for scalable frontends
 - AI-powered applications
 
-## Beyond Code
+## 🚀 Beyond Code
 
 When I'm not coding, I'm thinking about product design, reading engineering blogs from companies shipping at scale, or figuring out how to make complex tools more accessible.
 
-## Let's Connect
+## 🤝 Let's Connect
 
 Working on something interesting? Building a product? Always open to collaborating with ambitious people solving real problems.
 
