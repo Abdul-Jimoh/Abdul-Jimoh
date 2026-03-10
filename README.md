@@ -1,6 +1,6 @@
 # Hey, I'm Abdulqadir 👋
 
-Frontend engineer building products that people actually use. I turn ideas into polished, functional web applications.
+Software engineer building products that people actually use. I turn ideas into polished, functional web applications.
 
 ## 💻 What I Do
 
