@@ -15,7 +15,7 @@ From rapid prototypes to production-ready systems, I ship code that works.
 
 **Currently exploring:**
 - Advanced React patterns and performance optimization
-- System design for scalable frontends
+- System design for scalable applications
 - AI-powered applications
 
 ## 🚀 Beyond Code
