@@ -1,29 +1,31 @@
-# Hey, I'm Abdulqadir 👋
+# Abdulqadir Jimoh
 
-Software engineer building products that people actually use. I turn ideas into polished, functional web applications.
+Fullstack engineer transitioning into DevOps and cloud infrastructure.
+I build web applications and the systems that run them.
 
-## 💻 What I Do
+## Stack
 
-I specialize in building modern web applications with a focus on user experience and clean architecture. 
-From rapid prototypes to production-ready systems, I ship code that works.
+**Application**
+- TypeScript, React, Next.js, Node.js
+- REST APIs, GraphQL
+- PostgreSQL, MongoDB
 
-**Core Stack:**
-- React, Next.js, TypeScript
-- Tailwind CSS, modern CSS architecture
-- RESTful APIs, GraphQL
-- Git, CI/CD workflows
+**Infrastructure & DevOps**
+- GitHub Actions, CI/CD pipelines
+- Docker, Linux
+- AWS (learning)
 
-**Currently exploring:**
-- Advanced React patterns and performance optimization
-- System design for scalable applications
-- AI-powered applications
+## Projects
 
-## 🚀 Beyond Code
+- **[Kodix](https://github.com/Abdul-Jimoh/kodix)** — GitHub Action that reviews PRs for i18n issues using Lingo.dev
+- **[Trada](https://github.com/Abdul-Jimoh/Trada)** — AI-powered trading co-pilot with real-time voice and vision capabilities
 
-Outside of work, you'll find me on the basketball court, diving into a good book, or exploring poetry and art.
+## Currently
 
-## 🤝 Let's Connect
+- Going deep on Linux, Docker, and cloud infrastructure
+- Exploring system design and distributed systems
+- Open to DevOps, fullstack, and infrastructure roles
 
-Working on something interesting? Building a product? Always open to collaborating with ambitious people solving real problems.
+## Connect
 
-**Reach me:** [Email](mailto:abdulqadirjimoh99@gmail.com) | [Twitter/X](https://x.com/abdulqadirjimoh) | [LinkedIn](https://www.linkedin.com/in/abdulqadir-jimoh-bbb948236/)
+[Email](mailto:abdulqadirjimoh99@gmail.com) · [Twitter/X](https://x.com/abdulqadirjimoh) · [LinkedIn](https://www.linkedin.com/in/abdulqadir-jimoh-bbb948236/)
