@@ -13,7 +13,7 @@ I build web applications and the systems that run them.
 **Infrastructure & DevOps**
 - GitHub Actions, CI/CD pipelines
 - Docker, Linux
-- AWS (learning)
+- AWS 
 
 ## Projects
 
