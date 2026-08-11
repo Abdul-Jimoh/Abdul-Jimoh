@@ -1,31 +1,20 @@
-# Abdulqadir Jimoh
+# Intro
 
-Fullstack engineer transitioning into DevOps and cloud infrastructure.
-I build web applications and the systems that run them.
+Smart contract security researcher in training, with a background in fullstack engineering. Learning to break contracts before attackers do.
 
 ## Stack
 
-**Application**
-- TypeScript, React, Next.js, Node.js
-- REST APIs, GraphQL
-- PostgreSQL, MongoDB
+**Smart contracts** — Solidity, Foundry, Chainlink, common ERC standards
 
-**Infrastructure & DevOps**
-- GitHub Actions, CI/CD pipelines
-- Docker, Linux
-- AWS 
+**Application** — TypeScript, React, Next.js, Node.js, PostgreSQL, MongoDB
 
 ## Projects
 
-- **[Kodix](https://github.com/Abdul-Jimoh/kodix)** — GitHub Action that reviews PRs for i18n issues using Lingo.dev
-- **[Trada](https://github.com/Abdul-Jimoh/Trada)** — AI-powered trading co-pilot with real-time voice and vision capabilities
-
-## Currently
-
-- Going deep on Linux, Docker, and cloud infrastructure
-- Exploring system design and distributed systems
-- Open to DevOps, fullstack, and infrastructure roles
+- **Ticetta** — event ticketing platform I built and run ([ticetta.com](https://ticetta.com))
+- **Kodix** — GitHub Action for i18n PR review using Lingo.dev
 
 ## Connect
 
-[Email](mailto:abdulqadirjimoh99@gmail.com) · [Twitter/X](https://x.com/abdulqadirjimoh) · [LinkedIn](https://www.linkedin.com/in/abdulqadir-jimoh-bbb948236/)
+- Email: abdulqadirjimoh99@gmail.com
+- LinkedIn: [/in/abdulqadir-jimoh-bbb948236](https://linkedin.com/in/abdulqadir-jimoh-bbb948236)
+- X: [@404nam3](https://x.com/404nam3)
