@@ -8,11 +8,6 @@ Smart contract security researcher in training, with a background in fullstack e
 
 **Application** — TypeScript, React, Next.js, Node.js, PostgreSQL, MongoDB
 
-## Projects
-
-- **Ticetta** — event ticketing platform I built and run ([ticetta.com](https://ticetta.com))
-- **Kodix** — GitHub Action for i18n PR review using Lingo.dev
-
 ## Connect
 
 - Email: abdulqadirjimoh99@gmail.com
