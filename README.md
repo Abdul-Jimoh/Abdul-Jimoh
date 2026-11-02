@@ -11,5 +11,4 @@ Smart contract security researcher in training, with a background in fullstack e
 ## Connect
 
 - Email: abdulqadirjimoh99@gmail.com
-- LinkedIn: [/in/abdulqadir-jimoh-bbb948236](https://linkedin.com/in/abdulqadir-jimoh-bbb948236)
 - X: [@404nam3](https://x.com/404nam3)
